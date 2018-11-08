@@ -1,6 +1,45 @@
 **领区**
 
-> url: https://fr.tlscontact.com/cn/SHA/splash.php
+> **选择领区**: https://fr.tlscontact.com/cn/SHA/splash.php
+> 
+> **BaseUrl** : f"https://fr.tlscontact.com/cn/{}/index.php?l=zh"
+> 
+> **北京领区** BJS / TNA / XIY
+> > 北京: https://fr.tlscontact.com/cn/BJS/index.php?l=zh
+> > 
+> > 济南: https://fr.tlscontact.com/cn/TNA/index.php?l=zh
+> > 
+> > 西安: https://fr.tlscontact.com/cn/XIY/index.php?l=zh
+>
+> **上海领区** SHA / HGH / NKG
+> > 上海: https://fr.tlscontact.com/cn/SHA/index.php?l=zh
+> > 
+> > 杭州: https://fr.tlscontact.com/cn/HGH/index.php?l=zh
+> > 
+> > 南京: https://fr.tlscontact.com/cn/NKG/index.php?l=zh
+>
+> **广州领区** CAN / SZX / FOC
+> > 广州: https://fr.tlscontact.com/cn/CAN/index.php?l=zh
+> > 
+> > 深圳: https://fr.tlscontact.com/cn/SZX/index.php?l=zh
+> > 
+> > 福州: https://fr.tlscontact.com/cn/FOC/index.php?l=zh
+>
+> **成都领区** CNG / CKG / KMG
+> > 成都: https://fr.tlscontact.com/cn/CNG/index.php?l=zh
+> > 
+> > 重庆: https://fr.tlscontact.com/cn/CKG/index.php?l=zh
+> > 
+> > 昆明: https://fr.tlscontact.com/cn/KMG/index.php?l=zh
+>
+> **武汉领区** WUH / CSX
+> > 武汉: https://fr.tlscontact.com/cn/WUH/index.php?l=zh
+> > 
+> > 长沙: https://fr.tlscontact.com/cn/CSX/index.php?l=zh
+>
+> **沈阳领区** SHE
+>
+> > 沈阳: https://fr.tlscontact.com/cn/SHE/index.php?l=zh
 
 **注册**
 
